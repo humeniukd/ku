@@ -37,9 +37,9 @@ PageNotFound handler should be prepared as well.
 
 
 ## Technologies
-Application should be written using Angular 5. AngularCLI should be used as a build tool. Classes should be written in TypeScript, and styles should use LESS.
-Components needs to be tested in Jasmine.
-Please use TypeScript version of Bootstrap (ngx-bootstrap).
+Application should be written using React. React scripts should be used as a build tool. Components should be written in JSX, and styles should use SASS.
+Components needs to be tested in Jest.
+Please use React version of Bootstrap (ngx-bootstrap).
 
 
 ## References
