@@ -39,7 +39,7 @@ PageNotFound handler should be prepared as well.
 ## Technologies
 Application should be written using React. React scripts should be used as a build tool. Components should be written in JSX, and styles should use SASS.
 Components needs to be tested in Jest.
-Please use React version of Bootstrap (ngx-bootstrap).
+Please use React version of Bootstrap (react-bootstrap).
 
 
 ## References
